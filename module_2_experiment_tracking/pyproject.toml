@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "module-2-experiment-tracking"
+version = "0.1.0"
+description = ""
+authors = ["astraszab <u.astraszab@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mlflow = "^2.13.0"
+hyperopt = "^0.2.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

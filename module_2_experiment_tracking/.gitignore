@@ -1,0 +1,6 @@
+data/
+.venv/
+output/
+mlruns/
+artifacts_local/
+backend.db
